@@ -1,0 +1,6 @@
+ultralytics          # Core YOLOv8 package
+opencv-python-headless  # Image I/O without GUI
+numpy>=1.18.5        # Array operations
+PyYAML               # YAML parsing for configs
+tqdm                 # Progress bars
+opencv-python
