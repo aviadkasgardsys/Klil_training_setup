@@ -8,7 +8,6 @@ This repository provides scripts and configuration to train, test, and evaluate 
 ├── data.yaml           # Dataset configuration (paths + class names)
 ├── train.py            # Optional wrapper for `model.train`
 ├── test.py             # Test a single image with red annotations
-├── tests.py            # Test a multiple image with red annotations
 ├── tests.py            # Batch test script (iterates over ./tests folder)
 ├── tests/              # Folder containing images for batch testing
 ├── datasets/           # Raw images + labels
