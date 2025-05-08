@@ -101,7 +101,3 @@ Example:
 3. Commit your changes (`git commit -m "Add feature"`)
 4. Push to branch (`git push origin feat/my-feature`)
 5. Open a pull request
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
